@@ -1,6 +1,6 @@
 This is a fairly incomplete ansible playbook for managing current VyOS.
 
-It covers most of the more mundane tasks.  Firewalling in particular was a huge one for me:
+It covers most of the more mundane tasks.  Firewalling and NAT in particular was a huge one for me:
 
 * Firewalling
 * NAT
